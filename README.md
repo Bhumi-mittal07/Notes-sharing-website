@@ -59,8 +59,8 @@ CRUD Operations
 Database Connectivity
 Backend Development
 Responsive UI Design
- Contribution
 
+Contribution
 If you want to improve this project, you can fork the repository and make your own changes.
 Suggestions and improvements are always welcome.
 
